@@ -1,6 +1,6 @@
 # IoTDSM - Paper Results (IEEE Services 2018)
 
-> Figures, Scripts, Graphics and Results
+> Figures, Scripts, Charts and Results
 
 This Git repository contains all the data used to generate the results presented in the article submitted at the conference [ICWS 2018](http://conferences.computer.org/icws/2018/), entitled "Performance Evaluation of Strategies for Data Storage and Conversion in IoT". The results refer to the performance evaluation performed on the **I**nternet **o**f **T**hings **D**ata as a **S**ervice **M**odule - IoTDSM. This GIT repository provides the scripts used for chart generation and execution of experiments. To facilitate the installation of Jupyter Notebook, a tool used for charting and statistical analysis, we also provided a Docker image for generating the presented results.
 
