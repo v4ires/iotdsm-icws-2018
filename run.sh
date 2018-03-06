@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir=$HOME/iotdsm-services-2018/ --ip='*' --port=8888 --no-browser --allow-root
