@@ -15,7 +15,7 @@ To run the docker image, first, we have to compile the Dockerfile file. In this 
 After compiling the image, just run the following command to run the Jupyter Notebook.
 
 ```bash
-~$ docker run -dp 8888:8888 iotdsm-services-2018 jupyter notebook --notebook-dir=/iotdsm-services-2018/ --ip='*' --port=8888 --no-browser --allow-root
+~$ docker run -dp 8888:8888 -v $(pwd)/charts:/iotdsm-services-2018/charts iotdsm-services-2018 jupyter notebook --notebook-dir=/iotdsm-services-2018/ --ip='*' --port=8888 --no-browser --allow-root
 ```
 
 After executing the command just open the browser and access the URL:
