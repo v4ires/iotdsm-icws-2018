@@ -47,7 +47,7 @@ Júlio Cezar Estrella - [@jcezar](https://scholar.google.com/citations?user=uDdn
 
 This project is licensed under the MIT license - see the [``LICENSE``](LICENSE) file for more details.
 
-[https://github.com/v4ires/iotdsm-services-2018](https://github.com/v4ires/iotdsm-services-2018)
+[https://github.com/v4ires/iotdsm-icws-2018](https://github.com/v4ires/iotdsm-icws-2018)
 
 ## Acknowledgments
 
