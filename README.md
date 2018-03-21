@@ -1,4 +1,4 @@
-# IoTDSM - Paper Results (IEEE Services 2018)
+# IoTDSM - Paper Results (ICWS 2018)
 
 > Figures, Scripts, Charts and Results
 
