@@ -36,7 +36,7 @@ response_time_results.ipynb
 
 Vinícius Aires Barros – [@v4ires](https://scholar.google.com/citations?user=HjQRs4YAAAAJ) – viniciusaires@usp.br
 
-Welington Martins da Silva - [@welingtonsm]() -welingtonsm@usp.br
+Welington Martins da Silva - [@welingtonsm](https://github.com/welingtonsm) – welingtonsm@usp.br
 
 Leonardo Beck Prates – [@leobeckp](https://github.com/leobeckp) – leonardo.prates@usp.br
 
